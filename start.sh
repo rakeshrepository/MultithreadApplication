@@ -1,0 +1,1 @@
+java -cp target/Players-1.0-SNAPSHOT.jar MessageTask
