@@ -19,6 +19,7 @@ Everything not specified is to be decided by you; everything specified is a hard
 You should send your source code as an archive attached to the e-mail; inline links for downloading will be ignored.
 
 Getting start
+
 1. Compile the application
 
    mvn clean install -DskipTests
@@ -32,25 +33,47 @@ Getting start
 bash start.sh
 
 Player sent message [initiator ].
-Player [Producer@6dd581b] sent message [initiator  0 0].
-Player [Consumer@4f531afa] sent message [initiator  0].
+
+Player [Producer@6dd581b] sent message [initiator  0 ].
+
+Player [Consumer@4f531afa] sent message [initiator  0 0].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2 2 3].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2 3 3].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2 2 3 3 4].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2 3 3 4 4].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6 7].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9].
+
 Player [Consumer@4f531afa] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10].
+
 Player [Producer@6dd581b] sent message [initiator  0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 10].
